@@ -1,0 +1,31 @@
+_repo: Limehouse-Nights_63073
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burke, Thomas
+    alias: Burke, Sydney Thomas
+    birthdate: 1886
+    deathdate: 1945
+    gutenberg_agent_id: '839'
+    url: http://www.gutenberg.org/2009/agents/839
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Burke_%28author%29
+description: ''
+gutenberg_issued: '2020-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- !lcsh 'Limehouse (London, England) -- Fiction'
+- GITenberg
+tableOfContents: The Chink and the child -- The father of Yoto -- Gracie Goodnight
+  -- The paw -- The cue -- Beryl, the Croucher and the rest of England -- The sign
+  of the lamp -- Tai Fu and Pansy Greers -- The bird -- Gina of the Chinatown -- The
+  knight-errant -- The gorilla and the girl -- Ding-Dong-Dell -- Old Joe.
+title: Limehouse Nights
+url: http://www.gutenberg.org/ebooks/63073

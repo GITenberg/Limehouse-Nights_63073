@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:cc="http://web.resource.org/cc/"
+>
+  <pgterms:ebook rdf:about="ebooks/63073">
+    <dcterms:tableOfContents>The Chink and the child -- The father of Yoto -- Gracie Goodnight -- The paw -- The cue -- Beryl, the Croucher and the rest of England -- The sign of the lamp -- Tai Fu and Pansy Greers -- The bird -- Gina of the Chinatown -- The knight-errant -- The gorilla and the girl -- Ding-Dong-Dell -- Old Joe.</dcterms:tableOfContents>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/63073/63073-h/63073-h.htm">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">362102</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/63073"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na7c510b6cc2d445f856d9a2d7a074029">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-28T20:01:37</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/839">
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1945</pgterms:deathdate>
+        <pgterms:alias>Burke, Sydney Thomas</pgterms:alias>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1886</pgterms:birthdate>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Thomas_Burke_%28author%29"/>
+        <pgterms:name>Burke, Thomas</pgterms:name>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/63073/63073-0.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/63073"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">128698</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N179a07fc5f994fe28f75457be59a20dc">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-28T19:52:14</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na1881539fbb942e790824e8ac6e7934c">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="N2c4c6972298340309246077de5ec258c">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/63073.epub.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/63073"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N80997918eebc4fc4958d7d8fe20bbffc">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-28T21:00:15.944680</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">216955</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N6d2b3ab1f15346bc9fc4e4e2c9d1ab0d">
+        <rdf:value>PR</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/63073.rdf">
+        <dcterms:isFormatOf rdf:resource="ebooks/63073"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6093</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne0306c2f2f2f435ebef317ce3baf9884">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-28T21:00:17.983618</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/63073.epub.images">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N56c9060715644722a913990ef41b480b">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">314565</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-28T21:00:15.460656</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/63073"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</pgterms:downloads>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-08-28</dcterms:issued>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N100a744045134b9c8b2f5adbead38bdd">
+        <rdf:value>Limehouse (London, England) -- Fiction</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/63073/63073-h.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ncf0da64184344263ab2da0b12854a7c0">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">280950</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-28T20:06:33</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na0c41571cd6f49789d7f3a39b05ac0a6">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/63073"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/63073/pg63073.cover.medium.jpg">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-28T21:00:17.928627</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N8321a3eb41564210a651a1218646714a">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13993</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/63073"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/63073.kindle.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/63073"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">751595</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N845d6e9a430c4214b85b732da4e6efb9">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-28T21:00:17.846605</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/63073/63073-0.txt">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324042</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N02f5e402b0eb4ad9a25b7d90a427319e">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/63073"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-28T19:52:14</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/63073/pg63073.cover.small.jpg">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-28T21:00:17.888597</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/63073"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2263</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N46791e80b80c405396401b9d78c83d45">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N16e64183a7a846839924a5f57e9fcf72">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N4df9ccbf6ee84299a1e21033dd56a189">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Short stories, English</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:title>Limehouse Nights</dcterms:title>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/63073.kindle.images">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-28T21:00:16.927638</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1071010</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N934471f64f924ab0a4707d5fda492938">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/63073"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+  </cc:Work>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Thomas_Burke_%28author%29">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
